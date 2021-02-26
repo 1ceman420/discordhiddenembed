@@ -1,0 +1,2 @@
+# discordhiddenembed
+masks discords embeds
